@@ -1,16 +1,15 @@
-## Hi there 👋
+# 👋 Hi, I'm Mamady Konaté
 
-<!--
-**mamady1999/mamady1999** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Aspiring Data Scientist & Machine Learning Engineer**  
+Passionate about using AI for Climate, Health & Social Good 🌍
 
-Here are some ideas to get you started:
+- 🎓 Master's in Mathematical Sciences @ AIMS Senegal  
+- 🔬 Thesis: Forecasting water levels on the Senegal River at Bakel  
+- 🤖 Intern @ Logidoo: Built YOLO-based instance segmentation for logistics  
+- 🌱 Always learning | Participating in AI hackathons and Kaggle challenges
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Skills
+Python | SQL | Scikit-learn | TensorFlow | PyTorch | Computer Vision | Time Series | FastAPI
+
+### 📫 Reach Me
+[LinkedIn](https://www.linkedin.com/in/mamadykonat%C3%A9/) • [GitHub](https://github.com/mamady1999) • mamady.konate@aims-senegal.org
