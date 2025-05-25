@@ -27,6 +27,6 @@ Languages:        Python • SQL • MongoDB
 Data Analysis:    pandas • NumPy • statsmodels
 ML/DL:            Scikit-learn • TensorFlow • Keras • PyTorch
 ML Techniques:    Regression • Classification • Clustering • Time Series Forecasting • AutoML
-Computer Vision:  Object Detection • Instance Segmentation (YOLO)
+Computer Vision:  Image Classification • Object Detection • Instance Segmentation (YOLO)
 Tools:            Jupyter • Git • VS Code • FastAPI • Power BI
 Visualization:    Matplotlib • Seaborn • Plotly
