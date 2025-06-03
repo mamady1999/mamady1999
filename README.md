@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Mamady Konaté 👋</h1>
 <p align="center">
-  <strong>Aspiring Data Scientist & ML Engineer | AI for Climate, Health & Social Impact 🌍</strong>
+  <strong>Aspiring AI Engineer | Passionate about Climate, Health & Responsible AI 🌍</strong>
 </p>
 
 <p align="center">
@@ -13,20 +13,21 @@
 
 ### 🧠 About Me
 
-I'm a passionate data scientist and machine learning enthusiast currently completing a Master's in Mathematical Sciences at **AIMS Senegal**. I enjoy building impactful AI tools that tackle **real-world challenges** in areas like **climate resilience**, **logistics optimization**, and **healthcare access**.
+I'm a passionate aspiring AI Engineer with a strong background in mathematics and data science.  
+I recently completed my Master's in Mathematical Sciences at **AIMS Senegal**, where I explored deep learning for time series forecasting and vision-based applications.
 
-💡 I believe in **responsible and accessible AI**.  
-📌 Currently working on: computer vision, time series forecasting, and AutoML tools.
+🌍 I'm particularly interested in how AI can support **climate resilience**, **healthcare access**, and other critical societal challenges.  
+💡 I believe in building **responsible, interpretable, and human-centered AI systems**.
 
 ---
 
 ### ⚙️ Skills
 
 ```python
-Languages:        Python • SQL • MongoDB
+Languages:        Python • SQL • MongoDB • Bash
 Data Analysis:    pandas • NumPy • statsmodels
 ML/DL:            Scikit-learn • TensorFlow • Keras • PyTorch
 ML Techniques:    Regression • Classification • Clustering • Time Series Forecasting • AutoML
-Computer Vision:  Image Classification • Object Detection • Instance Segmentation (YOLO)
-Tools:            Jupyter • Git • VS Code • FastAPI • Power BI
+Computer Vision:  Image Classification • Object Detection • Instance Segmentation 
+Tools:            Jupyter • Git • VS Code • FastAPI • Docker • Power BI
 Visualization:    Matplotlib • Seaborn • Plotly
