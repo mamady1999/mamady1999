@@ -36,7 +36,7 @@ Computer Vision:  Image Classification • Object Detection • Segmentation
 Dev Tools:        Git • VS Code • Docker • Jupyter • FastAPI
 Databases:        MongoDB
 Visualization:    Matplotlib • Seaborn • Plotly
-
+```
 
 ### 💡 What Drives Me
 
