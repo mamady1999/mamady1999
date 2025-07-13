@@ -37,6 +37,7 @@ Dev Tools:        Git • VS Code • Docker • Jupyter • FastAPI
 Databases:        MongoDB
 Visualization:    Matplotlib • Seaborn • Plotly
 
+
 ### 💡 What Drives Me
 
 I believe in an Africa where AI doesn’t just imitate global trends—but solves local problems with local insight.  
