@@ -16,8 +16,6 @@ I'm a Data Scientist and Machine Learning Engineer with a **Master’s (Distinct
   - 🏥 Equitable healthcare access
   - 🤖 Responsible and interpretable AI systems
 
-I'm currently exploring **startup opportunities** to tackle Africa’s pressing needs through innovative AI.
-
 ---
 
 ## 🔧 Tech Toolbox
