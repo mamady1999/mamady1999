@@ -18,24 +18,19 @@ I’m driven to create AI solutions for:
 - 📊 **Data-driven decision-making**
 
 
----
-
 ## 🔧 Tech Toolbox
 
 **Languages:**  
-Python • SQL • Bash
+Python • SQL • Shell
 
 **Data Tools:**  
-pandas • NumPy • statsmodels • Power BI
+pandas • NumPy • statsmodels
 
 **ML/DL Frameworks:**  
 scikit-learn • PyTorch • TensorFlow • Keras • AutoML
 
 **Techniques:**  
-Time Series Forecasting • Regression • Classification • Clustering
-
-**Computer Vision:**  
-Image Classification • Object Detection • Instance Segmentation
+Time Series Forecasting • Computer Vision
 
 **Dev Tools:**  
 Git • Docker • FastAPI
@@ -48,15 +43,16 @@ Matplotlib • Seaborn • Power BI
 ## 🚀 Key Projects
 
 ### 🔹 Flood Forecasting for Senegal River (Master’s Thesis, AIMS Senegal)
-Enhanced water level forecasting at **Bakel** using **ARIMA**, with deep learning comparisons. Improved prediction accuracy for climate resilience.
+Enhanced water level forecasting at **Bakel** using deep learning (N-BEATS, LSTM), achieving 97% error reduction compared to ARIMA for climate resilience.
 
-### 🔹 AI-Powered Pricing Tool (Logidoo Internship)
-Developed a **computer vision system** to automate parcel dimension analysis, streamlining pricing workflows for logistics companies.
+### 🔹 Computer Vision Prototype for Logistics (Logidoo Internship)
+Developed a **YOLO-based system** to automate parcel dimension analysis, streamlining pricing workflows for logistics.
 
 ### 🔹 Churn Analysis for Telecom (MTN Guinea)
-Created churn reports to support **customer retention strategies**, leveraging **geolocation data** and usage patterns.
+Created churn reports using **customer data** with Python, SQL to support retention strategies.
 
----
+### 🔹 AutoML Platform Testing (Upwork Freelance)
+Tested an **AutoML platform** for classification and regression, delivering performance analysis to optimize workflows.
 
 ## 🏆 Certifications
 
