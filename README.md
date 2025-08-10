@@ -1,20 +1,22 @@
 # 👋 Hi, I'm Mamady Konaté
 
-**Data Scientist | Machine Learning Engineer | Passionate about Climate, Health & Responsible AI 🌍**  
+**Data Scientist | Machine Learning Enthusiast | Experienced in Deep Learning, Time Series Forecasting**  
 📧 [mamady.konate@aims-senegal.org](mailto:mamady.konate@aims-senegal.org) • 🔗 [LinkedIn](https://www.linkedin.com/in/mamadykonat%C3%A9/) • 💻 [GitHub](https://github.com/mamady1999)
 
 ---
 
 ## 🧠 About Me
 
-I'm a Data Scientist and Machine Learning Engineer with a **Master’s (Distinction) from AIMS Senegal**. I specialize in **time series forecasting** and **computer vision**, using Python and PyTorch to address real-world challenges.
+I'm a Data Scientist and Machine Learning Enthusiast with a Master’s (Distinction) from AIMS Senegal. I’m passionate about using data and AI to drive impactful solutions for real-world challenges.
 
-- My thesis enhanced **flood prediction for the Senegal River** using ARIMA.
-- I built an **AI-powered pricing tool** for logistics using computer vision.
-- I’m driven to create impactful AI solutions for:
-  - 🌱 Climate resilience (e.g., flood forecasting for communities)
-  - 🏥 Equitable healthcare access
-  - 🤖 Responsible and interpretable AI systems
+- **Thesis:** Enhanced flood forecasting for the Senegal River with deep learning, achieving a **97% error reduction** compared to ARIMA.  
+- **Computer Vision:** Built a prototype using **YOLO** for automated logistics pricing.
+
+I’m driven to create AI solutions for:
+
+- 🌱 **Climate resilience** (e.g., flood forecasting for communities)  
+- 📊 **Data-driven decision-making**
+
 
 ---
 
