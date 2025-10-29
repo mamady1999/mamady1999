@@ -1,58 +1,65 @@
 # 👋 Hi, I'm Mamady Konaté
 
-**Data Scientist | Machine Learning Enthusiast | Experienced in Deep Learning, Time Series Forecasting**  
+**Data Scientist | Machine Learning Engineer | Python, PyTorch, TensorFlow**  
 📧 [mamady.konate@aims-senegal.org](mailto:mamady.konate@aims-senegal.org) • 🔗 [LinkedIn](https://www.linkedin.com/in/mamadykonat%C3%A9/) • 💻 [GitHub](https://github.com/mamady1999)
 
 ---
 
 ## 🧠 About Me
 
-I'm a Data Scientist and Machine Learning Enthusiast with a Master’s (Distinction) from AIMS Senegal. I’m passionate about using data and AI to drive impactful solutions for real-world challenges.
+I'm a **Data Scientist** and **Machine Learning Engineer** with a **Master’s (Distinction)** from **AIMS Senegal**.  
+I'm passionate about applying machine learning to solve real-world problems with **societal impact**.
 
-- **Thesis:** Enhanced flood forecasting for the Senegal River with deep learning, achieving a **97% error reduction** compared to ARIMA.  
-- **Computer Vision:** Built a prototype using **YOLO** for automated logistics pricing.
+- **Master’s Thesis:** Developed flood prediction models for the **Senegal River**, combining **ARIMA** and deep learning architectures (**N-BEATS**, **N-HiTS**) with uncertainty quantification on **21,000+ daily observations**.  
+- **Computer Vision:** Built a **YOLO-based prototype** for automated parcel analysis at **Logidoo**.  
 
 I’m driven to create AI solutions for:
 
-- 🌱 **Climate resilience** (e.g., flood forecasting for communities)  
-- 📊 **Data-driven decision-making**
+- 🏥 **Healthcare** – trustworthy medical AI for underserved populations  
+- 🌍 **Climate science** – environmental prediction and resilience  
+- 📊 **Robust and explainable AI systems**
 
+---
 
 ## 🔧 Tech Toolbox
 
 **Languages:**  
-Python • SQL • Shell
-
-**Data Tools:**  
-pandas • NumPy • statsmodels
+Python • SQL • Shell  
 
 **ML/DL Frameworks:**  
-scikit-learn • PyTorch • TensorFlow • Keras • AutoML
+PyTorch • TensorFlow/Keras • scikit-learn  
+
+**Data Tools:**  
+pandas • NumPy • statsmodels  
 
 **Techniques:**  
-Time Series Forecasting • Computer Vision
+Deep Learning • Time Series Forecasting • Computer Vision • Uncertainty Quantification  
 
 **Dev Tools:**  
-Git • Docker • FastAPI
+Git • Docker • FastAPI • MLflow  
 
 **Visualization:**  
-Matplotlib • Seaborn • Power BI
+Matplotlib • Seaborn  
 
 ---
 
 ## 🚀 Key Projects
 
-### 🔹 Flood Forecasting for Senegal River (Master’s Thesis, AIMS Senegal)
-Enhanced water level forecasting at **Bakel** using deep learning (N-BEATS, LSTM), achieving 97% error reduction compared to ARIMA for climate resilience.
+### 🔹 Flood Prediction for Senegal River (Master’s Thesis, AIMS Senegal)
+Developed water level forecasting models for the Senegal River at **Bakel** using **ARIMA** and deep learning (**N-BEATS**, **N-HiTS**).  
+Analyzed **21,000+ daily observations (1960–2018)** with rigorous uncertainty quantification via bootstrap methods.  
+Achieved significant improvements over traditional statistical approaches for **climate resilience** applications.
 
 ### 🔹 Computer Vision Prototype for Logistics (Logidoo Internship)
-Developed a **YOLO-based system** to automate parcel dimension analysis, streamlining pricing workflows for logistics.
+Developed a **YOLO-based system** to automate parcel dimension analysis and pricing, demonstrating practical machine learning implementation in a **business context**.
 
 ### 🔹 Churn Analysis for Telecom (MTN Guinea)
-Created churn reports using **customer data** with Python, SQL to support retention strategies.
+Built **predictive analytics systems** for customer churn using **Python, SQL, and pandas** to support **retention strategies** and automate reporting workflows.
 
-### 🔹 AutoML Platform Testing (Upwork Freelance)
-Tested an **AutoML platform** for classification and regression, delivering performance analysis to optimize workflows.
+### 🔹 AutoML Platform Evaluation (Upwork Freelance)
+Evaluated an **AutoML platform** for classification and regression tasks, assessing **model performance** and **interpretability**.
+
+---
 
 ## 🏆 Certifications
 
