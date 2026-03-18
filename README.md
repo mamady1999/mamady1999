@@ -9,7 +9,7 @@
 
 ## 🎯 What I Do
 
-I build **trustworthy ML systems for healthcare**—especially for places where access to good healthcare is limited.
+I'm focused on applying ML to healthcare challenges—especially for places where access to good healthcare is limited.
 
 **Right now:**
 - 💼 Developing mobile apps for medical claims at **Teliya Santé** (health insurance, Guinea)
