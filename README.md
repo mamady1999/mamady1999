@@ -1,8 +1,8 @@
 # 👋 Hi, I'm Mamady Konaté
 
-**Machine Learning Researcher | Healthcare AI Enthusiast | Building AI that Saves Lives**
+**Machine Learning Engineer | Healthcare AI | Pursuing PhD**
 
-🇬🇳 Guinea → 🇸🇳 AIMS Senegal  
+🇬🇳 Guinea → 🇸🇳 AIMS Senegal 
 📧 [mamady.konate@aims-senegal.org](mailto:mamady.konate@aims-senegal.org) • 🔗 [LinkedIn](https://www.linkedin.com/in/mamadykonat%C3%A9/)
 
 ---
