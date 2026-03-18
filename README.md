@@ -1,68 +1,130 @@
 # 👋 Hi, I'm Mamady Konaté
 
-**Data Scientist | Machine Learning Engineer | Python, PyTorch, TensorFlow**  
-📧 [mamady.konate@aims-senegal.org](mailto:mamady.konate@aims-senegal.org) • 🔗 [LinkedIn](https://www.linkedin.com/in/mamadykonat%C3%A9/) • 💻 [GitHub](https://github.com/mamady1999)
+**Machine Learning Researcher | Healthcare AI Enthusiast | Building AI that Saves Lives**
+
+🇬🇳 Guinea → 🇸🇳 AIMS Senegal  
+📧 [mamady.konate@aims-senegal.org](mailto:mamady.konate@aims-senegal.org) • 🔗 [LinkedIn](https://www.linkedin.com/in/mamadykonat%C3%A9/)
 
 ---
 
-## 🧠 About Me
+## 🎯 What I Do
 
-I'm a **Data Scientist** and **Machine Learning Engineer** with a **Master’s (Distinction)** from **AIMS Senegal**.  
-I'm passionate about applying machine learning to solve real-world problems with **societal impact**.
+I build **trustworthy ML systems for healthcare**—especially for places where access to good healthcare is limited.
 
-- **Master’s Thesis:** Developed flood prediction models for the **Senegal River**, combining **ARIMA** and deep learning architectures (**N-BEATS**, **N-HiTS**) with uncertainty quantification on **21,000+ daily observations**.  
-- **Computer Vision:** Built a **YOLO-based prototype** for automated parcel analysis at **Logidoo**.  
+**Right now:**
+- 💼 Developing mobile apps for medical claims at **Teliya Santé** (health insurance, Guinea)
+- 🔬 Applying deep learning to **time series forecasting** with **uncertainty quantification**
+- 📊 Training models that **know when they don't know** (because in healthcare, that matters)
 
-I’m driven to create AI solutions for:
-
-- 🏥 **Healthcare** – trustworthy medical AI for underserved populations  
-- 🌍 **Climate science** – environmental prediction and resilience  
-- 📊 **Robust and explainable AI systems**
-
----
-
-## 🔧 Tech Toolbox
-
-**Languages:**  
-Python • SQL • Shell  
-
-**ML/DL Frameworks:**  
-PyTorch • TensorFlow/Keras • scikit-learn  
-
-**Data Tools:**  
-pandas • NumPy • statsmodels  
-
-**Techniques:**  
-Deep Learning • Time Series Forecasting • Computer Vision • Uncertainty Quantification  
-
-**Dev Tools:**  
-Git • Docker • FastAPI • MLflow  
-
-**Visualization:**  
-Matplotlib • Seaborn  
+**Recently:**
+- 📝 Submitted thesis work to *Frontiers in Environmental Science* (under revision)
+- ✅ Earned **4 WorldQuant University certifications** in deep learning (RNNs, LSTMs, GANs, VAEs)
+- 🎓 Master's (Distinction) from AIMS Senegal with focus on uncertainty quantification
 
 ---
 
-## 🚀 Key Projects
+## 🔥 Why Healthcare AI?
 
-### 🔹 Flood Prediction for Senegal River (Master’s Thesis, AIMS Senegal)
-Developed water level forecasting models for the Senegal River at **Bakel** using **ARIMA** and deep learning (**N-BEATS**, **N-HiTS**).  
-Analyzed **21,000+ daily observations (1960–2018)** with rigorous uncertainty quantification via bootstrap methods.  
-Achieved significant improvements over traditional statistical approaches for **climate resilience** applications.
+I'm not just interested in ML—I'm **obsessed** with applying it to medicine.
 
-### 🔹 Computer Vision Prototype for Logistics (Logidoo Internship)
-Developed a **YOLO-based system** to automate parcel dimension analysis and pricing, demonstrating practical machine learning implementation in a **business context**.
+Growing up in Guinea, I've seen firsthand the challenges of limited healthcare access and infrastructure. This drives my focus on building AI systems that work in **real-world conditions**—not just in well-funded hospitals with perfect data.
 
-### 🔹 Churn Analysis for Telecom (MTN Guinea)
-Built **predictive analytics systems** for customer churn using **Python, SQL, and pandas** to support **retention strategies** and automate reporting workflows.
-
-### 🔹 AutoML Platform Evaluation (Upwork Freelance)
-Evaluated an **AutoML platform** for classification and regression tasks, assessing **model performance** and **interpretability**.
+**My mission:** Build AI systems that are trustworthy and practical—systems that work in clinics with limited resources, for populations that are often overlooked in mainstream AI research.
 
 ---
 
-## 🏆 Certifications
+## 🛠️ Tech I Work With
 
-- 🎓 [Deep Learning for Computer Vision – WorldQuant University (2025)](https://www.credly.com/earner/earned/badge/248158b6-9b69-4c69-89b4-a9ff3e0a29e7)
-- 🎓 [Applied Data Science Lab – WorldQuant University (2024)](https://www.credly.com/badges/009356e3-af19-4975-adba-4ca6faacfad5/public_url)
-- 🎓 [Data Science Bootcamp – Udemy (2023)](https://www.udemy.com/certificate/UC-9e415fd6-70f6-4bf0-85f6-dc3b21a91217/)
+**ML/DL:** PyTorch • TensorFlow • scikit-learn  
+**Sequence Modeling:** RNN • LSTM • GRU • Transformers  
+**Generative AI:** GANs • VAEs • Autoencoders  
+**Time Series:** ARIMA • N-BEATS • N-HiTS  
+**Computer Vision:** YOLO • Transfer Learning  
+**Languages:** Python • SQL • Kotlin  
+**Tools:** Docker • Git • MLflow • Jupyter • VS Code
+
+---
+
+## 🚀 What I've Built
+
+### 🏥 Flood Prediction with Uncertainty Quantification
+**Master's Thesis | AIMS Senegal**
+
+Built deep learning models to predict water levels in the Senegal River (Bakel station).
+- 📊 Analyzed **21,000+ daily observations** (1960-2018)
+- 🧠 Compared ARIMA vs. neural architectures (LSTM, N-BEATS, N-HiTS)
+- 📈 Developed **residual-bootstrap prediction intervals** for uncertainty
+- 📝 Publication under revision at *Frontiers in Environmental Science*
+
+**Why it matters:** Climate resilience for communities vulnerable to flooding.
+
+### 📱 Medical Claims Validation App
+**Teliya Santé | Current**
+
+Kotlin Multiplatform mobile app for medical advisors to validate insurance claims.
+- 🏥 Healthcare tech improving insurance operations in Guinea
+- 📱 Cross-platform (Android/iOS)
+
+### 👁️ Computer Vision for Logistics
+**Logidoo | 2024-2025**
+
+YOLO-based prototype for automated parcel dimension analysis.
+- 📦 Built end-to-end ML pipeline (data → training → deployment)
+- 🐳 Deployed with Docker
+
+### 📊 Customer Behavior Analysis
+**MTN Guinea | 2022**
+
+Data analysis and geolocation support for telecom operations.
+- 📈 Analyzed behavioral data for retention strategies
+- 🗺️ Provided geolocation support for law enforcement
+
+---
+
+## 🎓 Education & Training
+
+**M.S. in Mathematical Sciences (Distinction)**  
+*AIMS Senegal, 2023-2025*
+
+**B.S. in Software Engineering**  
+*Gamal Abdel Nasser University, Guinea, 2016-2020*
+
+**Additional Training:**
+- Cambridge Centre for AI in Medicine Summer School (September 2025)
+
+**WorldQuant University Certifications:**
+- [Deep Learning Fundamentals - Intermediate](https://www.credly.com/badges/67a37e4e-d613-4c28-b4b9-add5372314ef) (2026)
+- [Deep Learning Fundamentals](https://www.credly.com/badges/868adfbd-5823-4cda-9d4b-a26e73c6bc43) (2025)
+- [Deep Learning for Computer Vision](https://www.credly.com/badges/248158b6-9b69-4c69-89b4-a9ff3e0a29e7) (2025)
+- [Applied Data Science Lab](https://www.credly.com/badges/009356e3-af19-4975-adba-4ca6faacfad5) (2024)
+
+---
+
+## 💭 What Drives Me
+
+I don't just want to build models that perform well on benchmarks. I want to build systems that **actually help people**.
+
+I'm drawn to problems where:
+- The stakes are high (healthcare, climate)
+- The data is messy (real world)
+- The resources are limited (most of the world)
+
+I love understanding how things work **"sous le capot"** (under the hood). Not just applying methods, but really grasping the fundamentals.
+
+---
+
+## 📫 Let's Connect
+
+**Open to:**
+- PhD opportunities in Healthcare AI
+- Research collaborations on time series + uncertainty quantification
+- Projects with real-world impact
+
+**Reach me:**
+- 📧 mamady.konate@aims-senegal.org
+- 🔗 [LinkedIn](https://www.linkedin.com/in/mamadykonat%C3%A9/)
+- 💼 Based in Guinea 🇬🇳
+
+---
+
+*"Building AI systems that work for everyone, not just the well-resourced."*
