@@ -25,7 +25,7 @@ I'm building a research identity around one question: **can we trust an AI syste
 
 I grew up in Conakry, Guinea. I've always wanted to understand things "sous le capot" — not just use a tool, but know why it works, and where it breaks.
 
-That instinct led me from software engineering, to applied ML on real, messy data (hydrology, health insurance), to a harder question: LLMs are increasingly trusted with real decisions, but do they actually know when they don't know? My own benchmark found that they often don't — and that the failure isn't random: in my runs, models gave in to *soft, polite* pressure more than to direct or authoritative pressure, a pattern consistent with later published work from CMU.
+That instinct led me from software engineering, to applied ML on real, messy data (hydrology, health insurance), to a harder question: LLMs are increasingly trusted with real decisions, but do they actually know when they don't know? My own benchmark found that they often don't — and that the failure isn't random: in my runs, models gave in to *soft, polite* pressure more than to direct or authoritative pressure, a pattern consistent with independent published work from CMU.
 
 I want to spend a PhD, and a career, closing that gap — starting from research, without losing sight of the people it's meant to serve.
 
@@ -38,7 +38,7 @@ I want to spend a PhD, and a career, closing that gap — starting from research
 
 Designed and ran a benchmark testing whether LLMs keep an honest "I don't know" under escalating conversational pressure. Built for the Google DeepMind × Kaggle "Measuring AGI" competition.
 - 940 evaluations: 47 questions × 5 pressure types × 4 frontier models, each with up to 3 escalation turns
-- **Soft Pressure Trap**: in these runs, polite, suggestive pressure was the most damaging pressure type — consistent with later work by Li et al. (CMU, 2026)
+- **Soft Pressure Trap**: in these runs, polite, suggestive pressure was the most damaging pressure type — consistent with independent work by Li et al. (CMU, 2026)
 - Full pipeline built independently: question design, pressure taxonomy, LLM-as-judge scoring
 - 🔗 [github.com/mamady1999/epistemicbench](https://github.com/mamady1999/epistemicbench)
 
