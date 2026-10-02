@@ -12,8 +12,8 @@
 I'm building a research identity around one question: **can we trust an AI system to know the limits of its own knowledge, even under pressure?**
 
 **Right now:**
-- 🧠 Building **EpistemicBench**, a benchmark testing whether LLMs maintain calibrated, honest positions under real conversational pressure
-- 🎓 Mentee, **University of Michigan AI Explorers program** — extending this research under mentorship, toward a peer-reviewed publication
+- 🎓 Mentee, **University of Michigan AI Explorers program** — running a pilot study on whether LLMs preserve the multiple valid answers to genuinely ambiguous questions, or collapse to one, under escalating multi-turn pressure
+- 🧠 Built **EpistemicBench**, a benchmark testing whether LLMs keep an honest "I don't know" under escalating conversational pressure
 - 💼 Developer at **Teliya Santé** (health insurance, Guinea) — staying grounded in real-world, resource-constrained software
 - 📖 Studying transformers, ML systems engineering, and AI safety fundamentals in parallel, from first principles
 
@@ -25,7 +25,7 @@ I'm building a research identity around one question: **can we trust an AI syste
 
 I grew up in Conakry, Guinea. I've always wanted to understand things "sous le capot" — not just use a tool, but know why it works, and where it breaks.
 
-That instinct led me from software engineering, to applied ML on real, messy data (hydrology, health insurance), to a harder question: LLMs are increasingly trusted with real decisions, but do they actually know when they don't know? My own benchmark found that they often don't — and that the failure isn't random: models cave to *soft, polite* pressure far more than to direct or authoritative pressure, a pattern independently confirmed by subsequent published work from CMU.
+That instinct led me from software engineering, to applied ML on real, messy data (hydrology, health insurance), to a harder question: LLMs are increasingly trusted with real decisions, but do they actually know when they don't know? My own benchmark found that they often don't — and that the failure isn't random: in my runs, models gave in to *soft, polite* pressure more than to direct or authoritative pressure, a pattern consistent with later published work from CMU.
 
 I want to spend a PhD, and a career, closing that gap — starting from research, without losing sight of the people it's meant to serve.
 
@@ -36,10 +36,10 @@ I want to spend a PhD, and a career, closing that gap — starting from research
 ### 🧠 EpistemicBench — LLM Epistemic Robustness Benchmark
 **Independent research, 2026**
 
-Designed and ran a benchmark testing whether LLMs hold a calibrated position under escalating conversational pressure.
-- 940 evaluations: 47 questions × 5 pressure types × 3 escalation turns, across 4 frontier models
-- **Soft Pressure Trap**: polite, suggestive pressure breaks models more reliably than authority or direct demands — independently corroborated by Li et al. (CMU, 2026)
-- Full pipeline built independently: question design, pressure taxonomy, LLM-as-judge scoring, bootstrap confidence intervals
+Designed and ran a benchmark testing whether LLMs keep an honest "I don't know" under escalating conversational pressure. Built for the Google DeepMind × Kaggle "Measuring AGI" competition.
+- 940 evaluations: 47 questions × 5 pressure types × 4 frontier models, each with up to 3 escalation turns
+- **Soft Pressure Trap**: in these runs, polite, suggestive pressure was the most damaging pressure type — consistent with later work by Li et al. (CMU, 2026)
+- Full pipeline built independently: question design, pressure taxonomy, LLM-as-judge scoring
 - 🔗 [github.com/mamady1999/epistemicbench](https://github.com/mamady1999/epistemicbench)
 
 ### 🌊 Flood Forecasting with Uncertainty Quantification
